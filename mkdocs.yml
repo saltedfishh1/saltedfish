@@ -1,0 +1,25 @@
+site_name: 我的文档
+nav:
+
+  - 首页: index.md
+  - 用户指南: 
+        - 快速开始: guide/quickstart.md
+        - 功能详解: guide/features.md
+        - 常见问题: guide/faq.md
+  - 开发人员指南:
+        - API 参考: developer/api.md
+        - 部署指南: developer/deployment.md
+  - 关于: 
+        - 项目简介: about/project.md
+        - 联系我们: about/contact.md
+
+
+theme:
+    name: material
+    features:
+       - navigation.tabs
+       - toc.integrate
+       - navigation.expand
+       - navigation.sections
+       - navigation.instant
+       
