@@ -2,10 +2,10 @@ site_name: 我的文档
 nav:
 
   - 首页: index.md
-  - 用户指南: 
-        - 快速开始: guide/quickstart.md
-        - 功能详解: guide/features.md
-        - 常见问题: guide/faq.md
+  - 技术文案: 
+        - 智慧水务建设: 技术文案/智慧水务建设.md
+        - 能耗管理系统: 技术文案/能耗管理系统.md
+        - 其他: 技术文案/others.md
   - 开发人员指南:
         - API 参考: developer/api.md
         - 部署指南: developer/deployment.md
